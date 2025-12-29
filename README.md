@@ -64,13 +64,6 @@ const benjamin = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BenjaKeeper&theme=tokyonight&hide_border=true)
-
-</div>
 
 ## 🎯 Featured Projects
 
